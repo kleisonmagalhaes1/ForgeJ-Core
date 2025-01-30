@@ -1,6 +1,6 @@
-# JavaOverdrive 🚀
+# ForgeJ-Core 🚀
 
-Bem-vindo ao **JavaOverdrive**, meu repositório dedicado à jornada de dominar Java e criar uma Game Engine poderosa! Aqui, você encontrará códigos, projetos e aprendizados que documentam minha evolução como desenvolvedor.
+Bem-vindo ao **ForgeJ-Core**, meu repositório dedicado à jornada de dominar Java e criar uma Game Engine poderosa! Aqui, você encontrará códigos, projetos e aprendizados que documentam minha evolução como desenvolvedor.
 
 ## 🎯 Objetivo  
 Desenvolver uma Game Engine completa em Java, utilizando boas práticas de programação e explorando conceitos avançados como renderização 2D/3D, física e gerenciamento de assets.
@@ -13,7 +13,7 @@ Desenvolver uma Game Engine completa em Java, utilizando boas práticas de progr
 ## 🚀 Como Executar o Projeto  
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/kleisonmagalhaes1/JavaOverdrive.git
+   git clone https://github.com/kleisonmagalhaes1/ForgeJ-Core.git
    ```
 2. Abra o projeto no Replit ou em uma IDE compatível (ex.: IntelliJ IDEA).
 
@@ -45,4 +45,4 @@ Contribuições são bem-vindas! Siga estas etapas:
 
 - **Inspiração:** "Código é arte, e Java é minha tela."
 ##
-✨ JavaOverdrive é mais que um repositório; é a minha jornada para me tornar um Java Overlord!
+✨ ForgeJ-Core é mais que um repositório; é a minha jornada para me tornar um Java Overlord!
