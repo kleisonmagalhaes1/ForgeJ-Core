@@ -1,14 +1,8 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
-
-// import org.junit.jupiter.api.Test;
-
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
-  }
+    Vector3 playerPosition = new Vector3(1.5f, 0.0f, 3.0f);
+    Vector3 movement = new Vector3(0.5f, 1.0f, -0.5f);
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+    Vector3
+  }
 }
